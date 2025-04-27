@@ -32,11 +32,17 @@ To set up the project, follow these steps:
 
 📂 laptop-price-predictor
 │-- app.py # Streamlit app for laptop price prediction
+
 │-- laptop-price-predictor.ipynb # Jupyter Notebook containing full data analysis workflow
+
 │-- laptop_data.csv # Original dataset of laptop specifications
+
 │-- pipe.pkl # Trained ML pipeline (preprocessing + model)
+
 │-- df.pkl # Preprocessed cleaned dataset
+
 │-- requirements.txt # List of required libraries
+
 │-- README.md # Project documentation
 
 ## How It Works
