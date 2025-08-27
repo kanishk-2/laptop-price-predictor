@@ -65,9 +65,11 @@ To set up the project, follow these steps:
 <img width="879" alt="output" src="https://github.com/user-attachments/assets/6f978f25-12f1-4400-b31b-4f598382caaa" />
 
 ## Contributing
+
 Feel free to fork this repository and contribute by submitting a pull request with improvements, bug fixes, or additional features!
 
 ## License
+
 This project is licensed under the MIT License.
 
 
